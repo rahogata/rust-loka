@@ -1,0 +1,10 @@
+[package]
+name = "spring-sample"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.87"
+spring = "0.1.0"
+spring-web = "0.1.0"
+tokio = "1.40.0"
