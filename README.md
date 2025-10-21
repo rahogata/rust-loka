@@ -1,0 +1,2 @@
+shadow variable
+import traits
